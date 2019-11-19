@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="497155e2-1443-4984-91de-6db409c06a5b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Kupilka@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Kupilka@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Kupilka@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="Kupilka: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Kupilka@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="Kupilka: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Kupilka@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="Kupilka: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Kupilka@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="Kupilka: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Kupilka" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TWmbasEnZt9imSQCAEpj1Px8eH" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/by/nikita" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Kupilka\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Kupilka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.nikita.sergei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="by.nikita.sergei.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="497155e2-1443-4984-91de-6db409c06a5b" name="Default Changelist" comment="" />
+      <created>1573584298188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573584298188</updated>
+      <workItem from="1573584302165" duration="1779000" />
+      <workItem from="1573586119436" duration="1775000" />
+      <workItem from="1573587930808" duration="1777000" />
+      <workItem from="1573589742728" duration="1775000" />
+      <workItem from="1573591553675" duration="1632000" />
+      <workItem from="1573624427901" duration="1767000" />
+      <workItem from="1573626236026" duration="1934000" />
+      <workItem from="1573628395636" duration="1780000" />
+      <workItem from="1573630208678" duration="1777000" />
+      <workItem from="1573632020273" duration="1780000" />
+      <workItem from="1573633837175" duration="1307000" />
+      <workItem from="1573635658129" duration="1584000" />
+      <workItem from="1573646484357" duration="1918000" />
+      <workItem from="1573648428464" duration="1784000" />
+      <workItem from="1573650239803" duration="1345000" />
+      <workItem from="1573661017557" duration="1777000" />
+      <workItem from="1573662831441" duration="781000" />
+      <workItem from="1573663758814" duration="20000" />
+      <workItem from="1573663867347" duration="1768000" />
+      <workItem from="1573665710428" duration="1748000" />
+      <workItem from="1573667492444" duration="1782000" />
+      <workItem from="1573669306405" duration="1781000" />
+      <workItem from="1573671182139" duration="1906000" />
+      <workItem from="1573673138071" duration="1784000" />
+      <workItem from="1573674953586" duration="1093000" />
+      <workItem from="1573735352375" duration="1771000" />
+      <workItem from="1573737171464" duration="1773000" />
+      <workItem from="1573743444430" duration="1782000" />
+      <workItem from="1573745252365" duration="1784000" />
+      <workItem from="1573747064706" duration="2075000" />
+      <workItem from="1573750826269" duration="760000" />
+      <workItem from="1573751969689" duration="1779000" />
+      <workItem from="1573753797382" duration="1782000" />
+      <workItem from="1573755605547" duration="1785000" />
+      <workItem from="1573757436519" duration="1783000" />
+      <workItem from="1573759247250" duration="942000" />
+      <workItem from="1573801353493" duration="61000" />
+      <workItem from="1573842985644" duration="634000" />
+      <workItem from="1573902948117" duration="1923000" />
+      <workItem from="1573907600656" duration="918000" />
+      <workItem from="1573917102972" duration="1813000" />
+      <workItem from="1573918963991" duration="1517000" />
+      <workItem from="1573920783743" duration="620000" />
+      <workItem from="1573982447604" duration="1778000" />
+      <workItem from="1573984261088" duration="1742000" />
+      <workItem from="1573986081600" duration="1767000" />
+      <workItem from="1573988051457" duration="1434000" />
+      <workItem from="1573990236928" duration="1024000" />
+      <workItem from="1573991296630" duration="1770000" />
+      <workItem from="1573993114193" duration="1766000" />
+      <workItem from="1573994925558" duration="1583000" />
+      <workItem from="1574004212486" duration="1772000" />
+      <workItem from="1574006023083" duration="1775000" />
+      <workItem from="1574007917984" duration="1774000" />
+      <workItem from="1574009730617" duration="1890000" />
+      <workItem from="1574011679582" duration="1767000" />
+      <workItem from="1574013493365" duration="1769000" />
+      <workItem from="1574015317669" duration="1710000" />
+      <workItem from="1574017131838" duration="1774000" />
+      <workItem from="1574018953177" duration="1778000" />
+      <workItem from="1574020774365" duration="1489000" />
+      <workItem from="1574055266213" duration="711000" />
+      <workItem from="1574058413936" duration="647000" />
+      <workItem from="1574061312248" duration="1777000" />
+      <workItem from="1574063126265" duration="1723000" />
+      <workItem from="1574064940893" duration="1517000" />
+      <workItem from="1574066877107" duration="355000" />
+      <workItem from="1574097263507" duration="1791000" />
+      <workItem from="1574099102183" duration="1773000" />
+      <workItem from="1574101133845" duration="1776000" />
+      <workItem from="1574102951718" duration="1776000" />
+      <workItem from="1574104780276" duration="1541000" />
+      <workItem from="1574108216677" duration="1208000" />
+      <workItem from="1574153384991" duration="1221000" />
+      <workItem from="1574155338379" duration="1769000" />
+      <workItem from="1574157156317" duration="1220000" />
+      <workItem from="1574169473428" duration="1776000" />
+      <workItem from="1574171288412" duration="1776000" />
+      <workItem from="1574173102672" duration="1554000" />
+      <workItem from="1574177766770" duration="699000" />
+      <workItem from="1574178495279" duration="1773000" />
+      <workItem from="1574180334306" duration="1781000" />
+      <workItem from="1574182181011" duration="1776000" />
+      <workItem from="1574184001418" duration="1105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
